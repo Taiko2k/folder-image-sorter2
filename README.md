@@ -4,6 +4,8 @@ Sequentially sort your images into folders by giving a folder name.
 
 The sequel to [folder-image-sorter1](https://github.com/Taiko2k/folder-image-sorter) but this time written in GTK(4).
 
+![Screenshot](screenshot.png)
+
 Imagine you have a folder of images, say animal pictures, and you want to sort each type into its own folder. For example; 'dogs' and 'cats', normally you might use your file manager, but if there's many folders to sort into, this may become a little tiresome. This application allows you to queue up images and give each image a folder name to be moved to.
 
 ### Downloading
