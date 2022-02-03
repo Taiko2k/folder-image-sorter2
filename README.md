@@ -18,11 +18,11 @@ No packages, you'll need to run from source. You will need GTK4 and Libadwaita, 
 
 ### How to use
 
-1. Select a source directory of images
-2. Select a destination directory to create folders in
-3. Click "Load Queue"
-4. In the text entry box below, type the name of a folder to put the image in.
-5. Done! It'll move onto the next.
+1. Select a source directory of images.
+2. Select a destination directory to create folders in. (Can be the same as source)
+3. Click "Load Queue".
+4. In the text entry box below, type the name of a folder to put the image in then press <kbd>Enter</kbd>.
+5. Done! It'll then move onto the next file.
 
 ### Tips
 
