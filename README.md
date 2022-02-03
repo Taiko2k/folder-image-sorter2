@@ -26,7 +26,7 @@ No packages, you'll need to run from source. You will need GTK4 and Libadwaita, 
 
 ### Tips
 
- - Press <kbd>Del</kbd> to move the item to system Trash
+ - Press <kbd>Del</kbd> to move the item to system Trash.
  - Press <kbd>Left</kbd> / <kbd>Right</kbd> to skip over items in the queue.
  - Press <kbd>Tab</kbd> to autocomplete the folder name to most recent.
  - For speed, use short names or single letters as your folder names. You can rename them in your file manager later.
