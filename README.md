@@ -29,5 +29,6 @@ No packages, you'll need to run from source. You will need GTK4 and Libadwaita, 
  - Press <kbd>Del</kbd> to move the item to system Trash.
  - Press <kbd>Left</kbd> / <kbd>Right</kbd> to skip over items in the queue.
  - Press <kbd>Tab</kbd> to autocomplete the folder name to most recent.
+ - Press <kbd>Ctrl</kbd> + <kbd>z</kbd> to undo. (For trashed images, you'll need to recover them manually.)
  - For speed, use short names or single letters as your folder names. You can rename them in your file manager later.
  - You can only sort into folders in the destination folder one layer deep. (So no `example/example`)
